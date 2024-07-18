@@ -1,0 +1,1 @@
+<p>Cảm ơn quý khách đã mua hàng của chúng tôi</p>
